@@ -4,9 +4,8 @@
 2.	Select the first element in the array
 3.	If the selected element is greater than ‘firstMax’, then ‘secMax’ = ‘firstMax’ and ‘firstMax’ = selected element
 4.	Else if the the selected element is lesser than ‘firstMax’ but greater then ‘secMax’, ‘secMax’ = selected element
-5.	If selected element is not the last element of the array, select the next element in the array
-6.	Repeat from step 3
-7.	Else print the value of ‘secMax’
+5.	If selected element is not the last element of the array, select the next element in the array, Repeat from step 3
+6.	Else print the value of ‘secMax’
 
 
 
